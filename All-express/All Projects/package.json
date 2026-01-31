@@ -1,0 +1,11 @@
+{
+  "name": "all-projects",
+  "version": "1.0.0",
+  "type": "commonjs",
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

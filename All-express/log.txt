@@ -1,0 +1,22 @@
+version of express
+4.18.3
+
+1st part 4 
+2nd part 18 
+3rd part 3
+
+
+last part is optional and is for minor fixes
+
+latest is 4.18.2
+
+second part is 18 and it is recommended bug fix (sec fix)
+if there is 18 to 19 change its big change 
+
+
+
+first part is major release 
+- my code is written in v4 and maybe it will work for v5 or not 
+it can break the existing code if we try channgingn the version
+
+
